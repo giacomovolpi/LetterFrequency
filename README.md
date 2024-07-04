@@ -1,4 +1,6 @@
-# File organization
+# LetterFrequency
+
+## File organization
 
 - Hadoop/
     - 1-LetterFrequency2JobCombiner.java
@@ -15,3 +17,8 @@
     - 2-LetterFrequencyOptimized.c
 
 Each folder contains a README.md with instructions on how to run each sample
+
+## Credits
+- Fabio Piras
+- Giacomo Volpi
+- Guillaume Quint
