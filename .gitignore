@@ -1,0 +1,14 @@
+.DS_Store
+.idea/*
+*.aux
+*.log
+*.bak
+*.toc
+*.gz
+*.out
+*.jar
+target/*
+documentation/*.pdf
+*.fls
+*.fdb_latexmk
+/documentation/Report.dvi
